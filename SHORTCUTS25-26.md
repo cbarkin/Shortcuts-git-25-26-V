@@ -1,4 +1,4 @@
-# SHORCUTS GIT 25-26 (V)
+# Resumen GIT 25-26 (V)
 
 Para clonar un repositorio:
 
